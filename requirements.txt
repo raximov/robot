@@ -1,0 +1,6 @@
+MetaTrader5
+pandas
+numpy
+pandas-ta
+TA-Lib
+python-dateutil
